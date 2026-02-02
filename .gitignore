@@ -1,0 +1,11 @@
+# Virtual Environments (you have two different ones)
+.venv/
+venv/
+
+# Byte-compiled / Optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables (SENSITIVE)
+.env
