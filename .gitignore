@@ -9,3 +9,6 @@ __pycache__/
 
 # Environment Variables (SENSITIVE)
 .env
+
+#Repo info
+repomix-output.xml
