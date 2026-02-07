@@ -12,3 +12,6 @@ __pycache__/
 
 #Repo info
 repomix-output.xml
+
+#Only for local
+_init__.py
